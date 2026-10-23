@@ -1,0 +1,9 @@
+*.mp3
+*.wav
+outputs/
+*.pyc
+__pycache__/
+.env
+gradio-venv/
+vc-venv/
+.cache/
