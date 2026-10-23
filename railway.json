@@ -1,0 +1,11 @@
+{
+  "buildCommand": "pip install -r requirements.txt",
+  "startCommand": "python backend.py",
+  "envs": {
+    "ELEVENLABS_API_KEY": {
+      "description": "ElevenLabs API Key",
+      "value": "",
+      "required": true
+    }
+  }
+}
